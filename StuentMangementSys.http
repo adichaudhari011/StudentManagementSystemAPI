@@ -1,0 +1,6 @@
+@StuentMangementSys_HostAddress = http://localhost:5079
+
+GET {{StuentMangementSys_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
